@@ -1,6 +1,6 @@
 # Comandos Úteis
 
-### Startando Contaienr
+### Startando Container
 
 ```
   docker start postgres
