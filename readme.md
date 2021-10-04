@@ -26,18 +26,18 @@ yarn typeorm migration:revert
 
 ### Checklist ao criar uma nova coluna
 
-[ ] - Startar docker
+- [ ] Startar docker
 
-[ ] - Criar Migration
+- [ ] Criar Migration
 
-[ ] - Rodar Migration
+- [ ] Rodar Migration
 
-[ ] - Criar Entidade
+- [ ] Criar Entidade
 
-[ ] - Criar Repository
+- [ ] Criar Repository
 
-[ ] - Criar Services
+- [ ] Criar Services
 
-[ ] - Criar Controller
+- [ ] Criar Controller
 
-[ ] - Criar Rotas
+- [ ] Criar Rotas
