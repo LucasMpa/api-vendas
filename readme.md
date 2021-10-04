@@ -10,6 +10,10 @@
 
 ```
   yarn typeorm migration:create -n NomeDaMigration
+  
+  or
+
+  yarn typeorm migration:generate -n NomeDaMigration
 ```
 
 ### Revertendo migrations
